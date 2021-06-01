@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YASH GUPTA
 - 👀 I’m interested in the role of Data Scientist, Data analyst, Buisness analyst.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning RNN .
 - 📫 yashgupta261100@gmail.com
 - Kaggle - https://www.kaggle.com/yashgupta261100
 - Linkdin - https://www.linkedin.com/in/yash-gupta-3b1050167/
