@@ -5,8 +5,9 @@
 - Kaggle - https://www.kaggle.com/yashgupta261100
 - Linkdin - https://www.linkedin.com/in/yash-gupta-3b1050167/
 - Check out my blogs on - https://www.blogger.com/profile/13899936812855916577
-- I have created many projects on Supervised learning, Unsupervised learning, Recommendation system, Exploratory data analysis, NLP and many more. You can check out all of my repositories.
+- I have created many projects on Recommendation system, Exploratory data analysis, NLP, Deep Learning, Machine Learning and many more. You can check out all of my repositories.
 
+Thank You😃
 <!---
 YASHGUPTA2611/YASHGUPTA2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
