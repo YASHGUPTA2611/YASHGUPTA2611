@@ -4,7 +4,7 @@
 - 📫 yashgupta261100@gmail.com
 - Kaggle - https://www.kaggle.com/yashgupta261100
 - Linkdin - https://www.linkedin.com/in/yash-gupta-3b1050167/
-- Check out my blogs on - https://www.blogger.com/profile/13899936812855916577
+- Sometimes I write blogs - https://www.blogger.com/profile/13899936812855916577
 - I have created many projects on Recommendation system, Exploratory data analysis, NLP, Deep Learning, Machine Learning and many more. You can check out all of my repositories.
 
 Thank You😃
