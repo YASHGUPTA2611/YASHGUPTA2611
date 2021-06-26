@@ -1,6 +1,6 @@
 # Hi 👋, I’m YASH GUPTA
 - 👀 I’m interested in the role of Data Scientist, Data analyst, Buisness analyst.
-- 🌱 I’m currently learning Computer Vision.
+- 🌱 I’m currently learning Computer Vision and JAVA.
 - 💬 Ask me about ML, Deep Learning, EDA
 - 📫 You can reach me on yashgupta261100@gmail.com
 - [Kaggle](https://www.kaggle.com/yashgupta261100)
