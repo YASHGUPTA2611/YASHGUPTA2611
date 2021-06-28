@@ -9,7 +9,7 @@
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Yashgupta.svg?style=social&label=Follow%20%40Yashgupta)](https://twitter.com/Yashgup66078577?s=08)
 
 
-[![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASHGUPTA2611)](https://github.com/anuraghazra/github-readme-stats)
+[![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASHGUPTA2611)]
 
 ## Thank You😃
 <!---
