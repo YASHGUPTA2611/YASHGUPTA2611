@@ -1,4 +1,6 @@
 # Hi 👋, I’m YASH GUPTA
+
+ ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
 - 👀 I’m interested in the role of Data Scientist, Data analyst, Buisness analyst.
 - 🌱 I’m currently learning Computer Vision and JAVA.
 - 💬 Ask me about ML, Deep Learning, EDA, Statistics.
