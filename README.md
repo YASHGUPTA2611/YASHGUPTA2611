@@ -4,7 +4,7 @@
 - 👀 I’m interested in the role of Data Scientist, Data analyst, Buisness analyst.
 - 🌱 I’m currently learning Computer Vision and JAVA.
 - 💬 Ask me about ML, Deep Learning, EDA, Statistics.
-- 👯 Machine Learning and Deep Learning Projects.
+- 👯 Open to Collaborate on Machine Learning and Deep Learning Projects.
 - 📫 You can reach me on yashgupta261100@gmail.com
 - [Kaggle](https://www.kaggle.com/yashgupta261100)
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
