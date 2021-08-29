@@ -2,7 +2,7 @@
 
  ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
 - 👀 I’m interested in the role of Data Scientist, Data analyst, Buisness analyst.
-- 🌱 I’m currently learning Computer Vision and JAVA.
+- 🌱 I’m currently learning Computer Vision and Advanced NLP.
 - 💬 Ask me about ML, Deep Learning, NLP, EDA and Statistics.
 - 👯 Open to Collaborate on Machine Learning and Deep Learning Projects.
 - 📫 You can reach me on yashgupta261100@gmail.com
