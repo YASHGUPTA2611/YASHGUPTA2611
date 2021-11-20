@@ -9,7 +9,6 @@
 - [Kaggle](https://www.kaggle.com/yashgupta261100)
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
 - Sometimes I write blogs - [Blogger](https://www.blogger.com/profile/13899936812855916577)
-- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Yashgupta.svg?style=social&label=Follow%20%40Yashgupta)](https://twitter.com/Yashgup66078577?s=08)
 
 
 [![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASHGUPTA2611)]
