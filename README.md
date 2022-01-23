@@ -1,10 +1,8 @@
 # Hi 👋, I’m YASH GUPTA
 
  ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
-- 👀 I’m interested in the role of Data Scientist and Data analyst.
-- 🌱 I’m currently learning Time series analysis and Advanced NLP.
+- 👀 I’m Algorithm bot researcher.
 - 💬 Ask me about ML, Deep Learning, NLP, EDA and Statistics.
-- 👯 Open to Collaborate on Machine Learning and Deep Learning Projects.
 - 📫 You can reach me on yashgupta261100@gmail.com
 - [Kaggle](https://www.kaggle.com/yashgupta261100)
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
