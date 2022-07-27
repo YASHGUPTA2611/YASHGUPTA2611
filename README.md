@@ -1,8 +1,8 @@
 # Hi 👋, I’m YASH GUPTA
 
  ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
-- 👀 I’m Algorithm bot researcher.
-- 💬 Ask me about ML, Deep Learning, NLP, EDA and Statistics.
+- 👀 I’m Data Analyst.
+- 💬 Ask me about Statistics, EDA, Visualization, Machine Learning, Deep Learning.
 - 📫 You can reach me on yashgupta261100@gmail.com
 - [Kaggle](https://www.kaggle.com/yashgupta261100)
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
