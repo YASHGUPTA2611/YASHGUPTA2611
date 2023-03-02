@@ -3,7 +3,7 @@
  ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
 - 👀 I’m Freelance Data Scientist.
 - 💬 My key Skills :-
-► Statistical Analysis
+  - Statistical Analysis
 ► Inferential and Descriptive statistics
 ► Linear Algebra
 ► Single and Multivariate Calculus
@@ -14,7 +14,7 @@
 ► Machine Learning 
 ► Deep Learning and NLP
 ► Predictive Modelling
-►Tableau
+Tableau
 ► Data Automation
 ► Algorithm trading
 ► Financial Markets
