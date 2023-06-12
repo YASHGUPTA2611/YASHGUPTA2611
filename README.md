@@ -6,13 +6,13 @@
   - Statistical Analysis
   - Linear Algebra
   - Single and Multivariate Calculus
-  - Exploratory Data Analysis
+  - Data Mining
   - Programming (Python, SQL) 
   - Machine Learning 
   - Deep Learning and NLP
   - Predictive Modelling
   - Tableau
-  - Data Automation
+  - Automation
   - Algorithm trading
   - Financial Markets
 - 📫 You can reach me on yashgupta261100@gmail.com
