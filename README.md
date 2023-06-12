@@ -16,9 +16,8 @@
   - Algorithm trading
   - Financial Markets
 - 📫 You can reach me on yashgupta261100@gmail.com
-- [Kaggle](https://www.kaggle.com/yashgupta261100)
+- [My Website]([https://www.kaggle.com/yashgupta261100](https://yashguptazoro.netlify.app/))
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
-- Sometimes I write blogs - [Blogger](https://www.blogger.com/profile/13899936812855916577)
 
 
 [![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASHGUPTA2611)]
