@@ -16,7 +16,6 @@
   - Algorithm trading
   - Financial Markets
 - 📫 You can reach me on yashgupta261100@gmail.com
-- [My Website](https://yashguptazoro.netlify.app/)
 - [Linkdin](https://www.linkedin.com/in/yash-gupta-3b1050167/)
 
 
