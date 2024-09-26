@@ -1,17 +1,12 @@
 # Hi 👋, I’m YASH GUPTA, I love to play with data and make sound conclusions about it.
 
  ![](https://komarev.com/ghpvc/?username=YASHGUPTA2611e&color=green)
-- 👀 I’m Freelance Data Scientist.
 - 💬 My key Skills :-
   - Statistical Analysis
-  - Linear Algebra
-  - Single and Multivariate Calculus
-  - Data Mining
+  - Data Analysis
   - Programming (Python, SQL) 
   - Machine Learning 
-  - Deep Learning and NLP
-  - Predictive Modelling
-  - Tableau
+  - Deep Learning 
   - Automation
   - Algorithm trading
   - Financial Markets
