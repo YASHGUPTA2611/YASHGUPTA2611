@@ -2,21 +2,20 @@
 I am a passionate data with a strong focus on artificial intelligence, dedicated to extracting insights from data and developing AI-driven solutions for real-world projects. Welcome to my GitHub profile!
 
 ## 🔭 What I'm Currently Working On:
-Participated in a Kaggle competition focused on predicting levels of problematic internet usage among children and adolescents.
-Developed an emotion detection project utilizing deep learning models for accurate sentiment analysis.
-Leveraged machine learning techniques to identify patterns in cryptocurrency markets.
+- Participated in a Kaggle competition focused on predicting levels of problematic internet usage among children and adolescents.
+- Developed an emotion detection project utilizing deep learning models for accurate sentiment analysis.
+- Leveraged machine learning techniques to identify patterns in cryptocurrency markets.
 ## 🌱 What I'm Currently Learning:
-Python programming for data analysis
-Power BI for interactive data visualizations
-SQL for database management and querying
-Advanced Excel techniques for data manipulation
-Statistical analysis for data interpretation
+- Python programming for data analysis
+- Power BI for interactive data visualizations
+- SQL for database management and querying
+- Advanced Excel techniques for data manipulation
+- Statistical analysis for data interpretation
 ## 💼 Skills:
-Programming & databases: Python, SQL, MySQL
-Machine Learning & Deep Learning: Random Forest, Xgboost, ANN, CNN, RNN, LSTM
-Data Science & Statistical Analysis: ETL, Data Pipelines, EDA, Hyperparameter Tuning, Descriptive & Inferential Statistics,
-Tools & Frameworks: Scikit-Learn, Pytorch, Seaborn, Plotly, Streamlit, AWS
-Database Management: 
+- Programming & databases: Python, SQL, MySQL
+- Machine Learning & Deep Learning: Random Forest, Xgboost, ANN, CNN, RNN, LSTM
+- Data Science & Statistical Analysis: ETL, Data Pipelines, EDA, Hyperparameter Tuning, Descriptive & Inferential Statistics,
+- Tools & Frameworks: Scikit-Learn, Pytorch, Seaborn, Plotly, Streamlit, AWS
 📊 Top Projects:
 - [Project: Flight Price Prediction](https://github.com/YASHGUPTA2611/Flights-Price-Prediction-Streamlit-Deployment)
 
