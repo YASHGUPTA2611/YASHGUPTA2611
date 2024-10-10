@@ -14,7 +14,7 @@ I am a passionate data with a strong focus on artificial intelligence, dedicated
 - Data Science & Statistical Analysis: ETL, Data Pipelines, EDA, Hyperparameter Tuning, Descriptive & Inferential Statistics,
 - Tools & Frameworks: Scikit-Learn, Pytorch, Seaborn, Plotly, Streamlit, AWS
 
-📊 Top Projects:
+## 📊 Top Projects:
 - [Project: Flight Price Prediction](https://github.com/YASHGUPTA2611/Flights-Price-Prediction-Streamlit-Deployment)
 
 ## 🔗 Links
