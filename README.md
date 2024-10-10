@@ -3,14 +3,11 @@ I am a passionate data with a strong focus on artificial intelligence, dedicated
 
 ## 🔭 What I'm Currently Working On:
 - Participated in a Kaggle competition focused on predicting levels of problematic internet usage among children and adolescents.
-- Developed an emotion detection project utilizing deep learning models for accurate sentiment analysis.
-- Leveraged machine learning techniques to identify patterns in cryptocurrency markets.
+- Developing an emotion detection project utilizing deep learning models for accurate sentiment analysis.
+- Leveraging machine learning techniques to identify patterns in cryptocurrency markets.
 ## 🌱 What I'm Currently Learning:
-- Python programming for data analysis
-- Power BI for interactive data visualizations
-- SQL for database management and querying
-- Advanced Excel techniques for data manipulation
-- Statistical analysis for data interpretation
+- Mathematical and Practical intution of advance models like GAN's.
+- Unsupervised Learning techniques
 ## 💼 Skills:
 - Programming & databases: Python, SQL, MySQL
 - Machine Learning & Deep Learning: Random Forest, Xgboost, ANN, CNN, RNN, LSTM
