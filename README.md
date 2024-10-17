@@ -1,5 +1,5 @@
 # Hi there, I'm Yash Gupta! 👋
-I am a passionate data with a strong focus on artificial intelligence, dedicated to extracting insights from data and developing AI-driven solutions for real-world projects. Welcome to my GitHub profile!
+I am passionate about data with a strong focus on artificial intelligence, dedicated to extracting insights from data and developing AI-driven solutions for real-world projects. Welcome to my GitHub profile!
 
 ## 🔭 What I'm Currently Working On:
 - Participated in a Kaggle competition focused on predicting levels of problematic internet usage among children and adolescents.
